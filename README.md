@@ -8,10 +8,13 @@ Sydney Drury
 2. Create bug-fix branch
 3. Update readme on main
 4. Add image to main
-5. Update readme in bug-fix
-6. Update readme in bug-fix again
-7. Create bug-fix-experimental branch
-8. Update readme in bug-fix again
-9. Update readme in bug-fix-experimental
-10. Update readme in bug-fix-experimental again
+5. Merge main into bug-fix
+6. Update readme in bug-fix
+7. Update readme in bug-fix again
+8. Create bug-fix-experimental branch
+9. Update readme in bug-fix again
+10. Update readme in bug-fix-experimental
 11. Update readme in bug-fix-experimental again
+12. Update readme in bug-fix-experimental again
+13. Merge bug-fix-experimental into bug-fix
+14. Update readme in bug-fix
