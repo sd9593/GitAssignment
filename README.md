@@ -5,7 +5,10 @@ Git Assignment
 Sydney Drury
 
 1. Create repository
-2. Update readme on main
-3. Add image to main
-4. Update readme in bug-fix
-5. Update readme in bug-fix again
+2. Create bug-fix branch
+3. Update readme on main
+4. Add image to main
+5. Update readme in bug-fix
+6. Update readme in bug-fix again
+7. Create bug-fix-experimental branch
+8. Update readme in bug-fix again
