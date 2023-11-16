@@ -1,2 +1,2 @@
 # GitAssignment
- GitHub Assignment for CSCI 3323
+4. Update readme in bug-fix
